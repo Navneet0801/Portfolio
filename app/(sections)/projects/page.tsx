@@ -10,7 +10,7 @@ import { ProjectData } from "./constant";
 function ProjectsPage() {
   return (
     <motion.div
-      className="flex flex-col justify-center items-center px-3"
+      className="flex pb-24 flex-col justify-center items-center px-3"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
