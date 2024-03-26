@@ -1,10 +1,17 @@
 export const ProjectData = [
   {
-    img: "/jobportal.webp",
-    title: "Job Portal",
-    techstack: "React, Redux, Node, Express, MongoDB",
-    live: "https://findyourjob.vercel.app",
-    github: "https://github.com/pankajktech/FindYourJob",
+    img: "/upcoming.jpg",
+    title: "Upcoming Project",
+    techstack: "FrontEnd + BackEnd",
+    live: "#",
+    github: "#",
+  },
+  {
+    img: "/ochi.png",
+    title: "Ochi_Design FrontEnd",
+    techstack: " React, Vite, Node, TailwindCSS, Framer Motion",
+    live: "#",
+    github: "https://github.com/Navneet0801/ochi_design_site",
   },
   {
     img: "/AiSumm.webp",
@@ -12,6 +19,27 @@ export const ProjectData = [
     techstack: "React, Redux, Article Summarizer API",
     live: "https://summarizearticle.netlify.app/",
     github: "https://github.com/pankajktech/ai-summariser",
+  },
+  {
+    img: "/blogApp.webp",
+    title: "MERN Blog App",
+    techstack: "React, Node, Express, MongoDB, Tailwind CSS",
+    live: "https://pankajktechblog.vercel.app/",
+    github: "https://github.com/pankajktech/Blog-Website",
+  },
+  {
+    img: "/blogApp.webp",
+    title: "MERN Blog App",
+    techstack: "React, Node, Express, MongoDB, Tailwind CSS",
+    live: "https://pankajktechblog.vercel.app/",
+    github: "https://github.com/pankajktech/Blog-Website",
+  },
+  {
+    img: "/blogApp.webp",
+    title: "MERN Blog App",
+    techstack: "React, Node, Express, MongoDB, Tailwind CSS",
+    live: "https://pankajktechblog.vercel.app/",
+    github: "https://github.com/pankajktech/Blog-Website",
   },
   {
     img: "/blogApp.webp",
