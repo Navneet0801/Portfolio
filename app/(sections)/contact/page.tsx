@@ -21,10 +21,10 @@ export default function page() {
       setIsSubmitting(true);
       await emailjs
         .sendForm(
-          "service_ldx72vg",
-          "template_tionfoh",
+          "service_blh2iwa",
+          "template_ffc7y0e",
           e.target,
-          "4i6NhRQVTAgwoBcc9"
+          "vVPm-T_IUB00i9LcY"
         )
         .then(() => {
           toast.success("Email Sent Successfully");
@@ -76,7 +76,7 @@ export default function page() {
                 />
               </div>
               <div className="grid w-full items-center gap-1.5 my-5">
-                <Label htmlFor="message">Mesaage*</Label>
+                <Label htmlFor="message">Message*</Label>
                 <Textarea
                   name="message"
                   rows={5}
@@ -110,7 +110,7 @@ export default function page() {
             quality={80}
             className="h-[300px] w-[300px] lg:h-[500px] lg:w-[500px]"
             src="/contact.svg"
-            alt="contactimg"
+            alt="contacting"
           />
         </motion.div>
       </motion.div>
