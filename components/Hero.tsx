@@ -57,7 +57,7 @@ export default function Hero() {
             </Button>
           </Link>
           <Link
-            href="https://drive.google.com/file/d/1EDdqOS-KYe43jlB7nAoqrFX14-485vBn/view"
+            href="https://drive.google.com/file/d/1mHmOT0V-SMSHKn3TwSrNeqihdXZg1ToE/view?usp=sharing"
             target="_blank"
           >
             <Button variant="secondary" className="flex gap-2 items-center">

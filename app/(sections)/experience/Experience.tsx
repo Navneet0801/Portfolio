@@ -101,6 +101,15 @@ export default Experience;
 
 const Data1 = [
   {
+    name: "AppVersel",
+    logo: "https://media.licdn.com/dms/image/C4E0BAQFX3_IC6lfmiw/company-logo_200_200/0/1631310799781?e=2147483647&v=beta&t=lbih3XWJrsR8VwGEj8wJIqgTxczjxyqIrd1c7tpgBOw",
+    timeSpan: "April 2024 - Current",
+    role: "Front-End Developer Intern",
+    about1: "Making of all the frontends of application along with database management.",
+    about2: "Work with our team of experienced developers on enhancing a complex interactive web application.",
+    about3: "Contributed to version control and collaborated with team members using Git.",
+  },
+  {
     name: "Ria Power Saver",
     logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCNPWXMttPr62alzxZXj7NzXn4XeI5n6EJeZYQdiyBPyorfzl_6L8uXCCX5E-f65rtSE",
     timeSpan: "Nov 2023 - Jan 2024",
